@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MacOS.qss</file>
+        <file>style.qss</file>
+        <file>1.png</file>
+        <file>PixPin_2024-06-15_17-21-51.jpg</file>
+        <file>Ubuntu.qss</file>
+        <file>Styles/or.qss</file>
+        <file>Styles/abc_satellite.qss</file>
+        <file>Styles/OverlayWidget.qss</file>
+        <file>Styles/abc.qss</file>
+        <file>Styles/AMOLED.qss</file>
+        <file>Styles/application.qss</file>
+        <file>Styles/Aqua.qss</file>
+        <file>Styles/blue - 副本.qss</file>
+        <file>Styles/blue.qss</file>
+        <file>Styles/coffee.qss</file>
+        <file>Styles/ConsoleStyle.qss</file>
+        <file>Styles/default.qss</file>
+        <file>Styles/default2.qss</file>
+        <file>Styles/ElegantDark.qss</file>
+        <file>Styles/khaki.qss</file>
+        <file>Styles/MacOS.qss</file>
+        <file>Styles/MaterialDark.qss</file>
+        <file>Styles/NeonButtons.qss</file>
+        <file>Styles/no.qss</file>
+        <file>Styles/nostyle.qss</file>
+        <file>Styles/pagefold.qss</file>
+        <file>Styles/phonegui.qss</file>
+        <file>Styles/QDarkStyleSheet.qss</file>
+        <file>Styles/README.md</file>
+        <file>Styles/style.qss</file>
+        <file>Styles/style2.qss</file>
+        <file>Styles/style3.qss</file>
+        <file>Styles/style4.qss</file>
+        <file>Styles/stylesheet2.qss</file>
+        <file>Styles/transparent.qss</file>
+        <file>Styles/Ubuntu.qss</file>
+        <file>Styles/white.qss</file>
+        <file>sy.jpg</file>
+        <file>book.ico</file>
+        <file>jieyue.ico</file>
+        <file>yh.ico</file>
+    </qresource>
+</RCC>
